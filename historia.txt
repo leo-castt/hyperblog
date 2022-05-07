@@ -3,3 +3,8 @@ Esta es la historia de ley paz
 Ley paz tiene 32 años y nacio en brasil
 
 Mañana nos enfocaremos en su vida laboral.
+
+titulo atractivo
+contenedor
+cabecera
+parrafo
